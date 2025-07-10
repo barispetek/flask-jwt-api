@@ -66,9 +66,8 @@ PUT      /api/posts/<id>      Update post (auth required)
 DELETE   /api/posts/<id>      Delete post (auth required)
 ```
  
-🧪 Testing
+## 🧪 Testing
 Use Postman to test the API.
-
 Set Authorization header as Bearer <access_token> for protected routes.
 
 
