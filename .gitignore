@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Pytest
+.cache
+.pytest_cache/
+
+# VSCode & other editor settings
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Docker
+*.log
+*.pid
+
+# Python egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Node (in case you use JS tools in frontend later)
+node_modules/
+
+# Misc
+*.bak
